@@ -1,0 +1,6 @@
+{
+  "name": "نظام التحقق الآمن",
+  "description": "محاكي أمني متكامل للتحقق من الهوية بيومترياً (البصمة، الوجه، العين، ومطابقة الصوت) مع لوحة تحكم وسجل عمليات متطور",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
